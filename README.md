@@ -19,7 +19,7 @@
 [Cobalt2](https://github.com/wesbos/cobalt2-vscode)
 
 ## Recommended settings
-Open settings with `CMD + ,` and replace the text in the right side with the text below.
+Open settings with `CMD + ,` and replace the text in the right side with the text below. You should see the changes immediately after you save.
 
 ```
 {
