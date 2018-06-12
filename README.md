@@ -16,9 +16,10 @@
 https://github.com/tonsky/FiraCode
 
 ## Recommended theme
-https://github.com/wesbos/cobalt2-vscode
+[Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
 ## Recommended settings
+Open settings with `CMD + ,` and replace the text in the right side with the text below.
 
 ```
 {
