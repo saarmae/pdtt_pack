@@ -37,7 +37,7 @@ https://github.com/tonsky/FiraCode
         80,
         120
     ],
-    "workbench.activityBar.visible": false,
+    "workbench.activityBar.visible": true,
     "editor.minimap.enabled": false,
     "editor.mouseWheelScrollSensitivity": 0.2,
     "workbench.statusBar.feedback.visible": false,
@@ -54,7 +54,7 @@ https://github.com/tonsky/FiraCode
     "prettier.printWidth": 80,
     "prettier.singleQuote": true,
     "prettier.useTabs": true,
-    "editor.lineNumbers": "off",
+    "editor.lineNumbers": "on",
     "prettier.tabWidth": 4,
     "prettier.trailingComma": "all",
     "workbench.startupEditor": "welcomePage",
