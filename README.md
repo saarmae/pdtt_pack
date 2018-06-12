@@ -13,10 +13,10 @@
 [vscode-icons](https://github.com/vscode-icons/vscode-icons)<br/>
 
 ## Recommended font
-https://github.com/tonsky/FiraCode
+[Fira Code](https://github.com/tonsky/FiraCode)
 
 ## Recommended theme
-[Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+[Cobalt2](https://github.com/wesbos/cobalt2-vscode)
 
 ## Recommended settings
 Open settings with `CMD + ,` and replace the text in the right side with the text below.
