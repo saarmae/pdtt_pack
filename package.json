@@ -4,6 +4,9 @@
     "description": "",
     "version": "0.0.3",
     "publisher": "saarmae",
+    "repository": {
+        "url":  "https://github.com/saarmae/pdtt_pack"
+    },
     "engines": {
         "vscode": "^1.24.0"
     },
