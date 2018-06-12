@@ -42,7 +42,6 @@ https://github.com/wesbos/cobalt2-vscode
     ],
     "workbench.activityBar.visible": true,
     "editor.minimap.enabled": false,
-    "editor.mouseWheelScrollSensitivity": 0.2,
     "workbench.statusBar.feedback.visible": false,
     "extensions.ignoreRecommendations": false,
     "terminal.external.osxExec": "iterm2.app",
