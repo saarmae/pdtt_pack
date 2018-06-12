@@ -15,6 +15,9 @@
 ## Recommended font
 https://github.com/tonsky/FiraCode
 
+## Recommended theme
+https://github.com/wesbos/cobalt2-vscode
+
 ## Recommended settings
 
 ```
