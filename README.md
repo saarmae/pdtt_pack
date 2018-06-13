@@ -15,6 +15,9 @@
 ## Recommended font
 [Fira Code](https://github.com/tonsky/FiraCode)
 
+## Recommended font for integrated terminal
+[Inconsolata for Powerline](https://github.com/powerline/fonts/tree/master/Inconsolata)
+
 ## Recommended theme
 [Cobalt2](https://github.com/wesbos/cobalt2-vscode)
 
@@ -49,7 +52,7 @@ Open settings with `CMD + ,` and replace the text in the right side with the tex
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.fontSize": 14,
-    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontFamily": "Inconsolata for powerline, Fira Code, Menlo, monospace",
     "window.zoomLevel": 0,
     "workbench.fontAliasing": "default",
     "workbench.iconTheme": "vscode-icons",
