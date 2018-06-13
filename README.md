@@ -51,7 +51,7 @@ Open settings with `CMD + ,` and replace the text in the right side with the tex
     "terminal.external.osxExec": "iterm2.app",
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontSize": 17,
     "terminal.integrated.fontFamily": "Inconsolata for powerline, Fira Code, Menlo, monospace",
     "window.zoomLevel": 0,
     "workbench.fontAliasing": "default",
