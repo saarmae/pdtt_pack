@@ -10,6 +10,7 @@
     "engines": {
         "vscode": "^1.24.0"
     },
+    "icon": "pdtt.png",
     "categories": [
         "Extension Packs"
     ],
