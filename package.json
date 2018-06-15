@@ -17,19 +17,12 @@
         "CoenraadS.bracket-pair-colorizer",
         "EditorConfig.EditorConfig",
         "PeterJausovec.vscode-docker",
-        "WallabyJs.quokka-vscode",
-        "christian-kohler.npm-intellisense",
-        "christian-kohler.path-intellisense",
         "codezombiech.gitignore",
-        "dbaeumer.vscode-eslint",
         "eamodio.gitlens",
-        "eg2.vscode-npm-script",
         "esbenp.prettier-vscode",
-        "jasonnutter.search-node-modules",
         "robertohuertasm.vscode-icons",
         "shd101wyy.markdown-preview-enhanced",
         "sleistner.vscode-fileutils",
-        "waderyan.nodejs-extension-pack",
-        "xabikos.JavaScriptSnippets"
+        "waderyan.nodejs-extension-pack"
     ]
 }
