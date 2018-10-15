@@ -1,5 +1,11 @@
 # README
 
+`Optional` If you want to remove one or more extensions that come with this pack:
+1. Install this extension pack.
+2. Uninstall this extension pack without removing the extensions.
+
+This way you can remove single extensions you don't care about that are included with this pack. While the pack is installed it won't allow separately uninstalling the extensions.
+
 ## Included extensions
 
 [Node.js Extension Pack](https://github.com/waderyan/nodejs-extension-pack)<br/>
