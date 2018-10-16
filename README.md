@@ -94,5 +94,7 @@ Some controversial settings have been commented out, feel free to uncomment or d
     "workbench.settings.editor": "json",
     "workbench.startupEditor": "welcomePage",
     "workbench.statusBar.feedback.visible": false
+    // "editor.fontLigatures": true,
+    // "files.autoSave": "afterDelay",
 }
 ```
