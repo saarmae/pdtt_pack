@@ -1,6 +1,6 @@
 # README
 
-`Optional` If you want to remove one or more extensions that come with this pack:
+**Optional**: If you want to remove one or more extensions that come with this pack:
 1. Install this extension pack.
 2. Uninstall this extension pack without removing the extensions.
 
