@@ -15,7 +15,6 @@ This way you can remove single extensions you don't care about that are included
 [gitignore](https://github.com/CodeZombieCH/vscode-gitignore)<br/>
 [GitLens](https://github.com/eamodio/vscode-gitlens)<br/>
 [Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair)<br/>
-[Markdown Preview Enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced)<br/>
 [Prettier](https://github.com/prettier/prettier-vscode)<br/>
 [vscode-icons](https://github.com/vscode-icons/vscode-icons)<br/>
 
