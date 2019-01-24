@@ -92,7 +92,10 @@ Some controversial settings have been commented out, feel free to uncomment or d
     "workbench.iconTheme": "vscode-icons",
     "workbench.settings.editor": "json",
     "workbench.startupEditor": "welcomePage",
-    "workbench.statusBar.feedback.visible": false
+    "workbench.statusBar.feedback.visible": false,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "gitlens.advanced.telemetry.enabled": false
     // "editor.fontLigatures": true,
     // "files.autoSave": "afterDelay",
 }
