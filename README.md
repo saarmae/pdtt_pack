@@ -96,6 +96,7 @@ Some controversial settings have been commented out, feel free to uncomment or d
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "gitlens.advanced.telemetry.enabled": false
+    "workbench.settings.useSplitJSON": true,
     // "editor.fontLigatures": true,
     // "files.autoSave": "afterDelay",
 }
