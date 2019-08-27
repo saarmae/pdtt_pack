@@ -21,9 +21,9 @@
     "extensionDependencies": [
         "CoenraadS.bracket-pair-colorizer",
         "EditorConfig.EditorConfig",
-        "PeterJausovec.vscode-docker",
-        "codezombiech.gitignore",
-        "eamodio.gitlens",
+        "ms-azuretools.vscode-docker",
+		"codezombiech.gitignore",
+		"waderyan.gitblame",
         "esbenp.prettier-vscode",
         "robertohuertasm.vscode-icons",
         "sleistner.vscode-fileutils",

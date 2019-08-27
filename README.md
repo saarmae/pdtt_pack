@@ -12,11 +12,11 @@ After this you can remove single extensions you don't care about. While the pack
 [Docker](https://github.com/microsoft/vscode-docker)<br/>
 [EditorConfig for VS Code](https://github.com/editorconfig/editorconfig-vscode)<br/>
 [File Utils](https://github.com/sleistner/vscode-fileutils)<br/>
-[gitignore](https://github.com/CodeZombieCH/vscode-gitignore)<br/>
-[GitLens](https://github.com/eamodio/vscode-gitlens)<br/>
+[Gitignore](https://github.com/CodeZombieCH/vscode-gitignore)<br/>
+[Git Blame](https://github.com/Sertion/vscode-gitblame)<br/>
 [Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair)<br/>
 [Prettier](https://github.com/prettier/prettier-vscode)<br/>
-[vscode-icons](https://github.com/vscode-icons/vscode-icons)<br/>
+[Vscode-icons](https://github.com/vscode-icons/vscode-icons)<br/>
 
 ## Recommended font
 
@@ -34,9 +34,10 @@ After this you can remove single extensions you don't care about. While the pack
 
 1. Open settings with `CMD + ,`
 2. Search for `settings`
-3. Change the `[Workbench › Settings: Editor]` value to JSON
+3. Change the `[Workbench › Settings: Editor]` value to from `UI` to `JSON`
+3. Change the `[Workbench › Settings: Use Split JSON]` value to true
 4. Save with `CMD + S`
-5. Open settings again with `CMD + ,`
+5. Close and reopen settings again with `CMD + ,`
 6. Change and replace the text in the right side with the settings below.
 7. Save with `CMD + S`
 
@@ -62,18 +63,6 @@ Some controversial settings have been commented out, feel free to uncomment or d
     "explorer.confirmDelete": false,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
-    "gitlens.advanced.messages": {
-        "suppressShowKeyBindingsNotice": true
-    },
-    "gitlens.codeLens.authors.enabled": false,
-    "gitlens.codeLens.enabled": false,
-    "gitlens.codeLens.recentChange.enabled": false,
-    "gitlens.codeLens.scopes": [],
-    "gitlens.currentLine.enabled": false,
-    "gitlens.historyExplorer.enabled": true,
-    "gitlens.hovers.currentLine.over": "line",
-    "gitlens.hovers.enabled": false,
-    "gitlens.showWhatsNewAfterUpgrades": false,
     "npm-intellisense.importES6": false,
     "prettier.eslintIntegration": true,
     "prettier.printWidth": 120,
@@ -95,8 +84,7 @@ Some controversial settings have been commented out, feel free to uncomment or d
     "workbench.statusBar.feedback.visible": false,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "gitlens.advanced.telemetry.enabled": false
-    "workbench.settings.useSplitJSON": true,
+    "workbench.settings.useSplitJSON": true
     // "editor.fontLigatures": true,
     // "files.autoSave": "afterDelay",
 }
