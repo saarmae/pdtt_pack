@@ -14,7 +14,6 @@ After this you can remove single extensions you don't care about. While the pack
 [File Utils](https://github.com/sleistner/vscode-fileutils)<br/>
 [Gitignore](https://github.com/CodeZombieCH/vscode-gitignore)<br/>
 [Git Blame](https://github.com/Sertion/vscode-gitblame)<br/>
-[Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair)<br/>
 [Prettier](https://github.com/prettier/prettier-vscode)<br/>
 [Vscode-icons](https://github.com/vscode-icons/vscode-icons)<br/>
 
@@ -84,7 +83,9 @@ Some controversial settings have been commented out, feel free to uncomment or d
     "workbench.statusBar.feedback.visible": false,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "workbench.settings.useSplitJSON": true
+    "workbench.settings.useSplitJSON": true,
+    "editor.guides.bracketPairs": true,
+    "editor.bracketPairColorization.enabled": true
     // "editor.fontLigatures": true,
     // "files.autoSave": "afterDelay",
 }
