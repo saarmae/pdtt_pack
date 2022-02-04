@@ -16,6 +16,8 @@ After this you can remove single extensions you don't care about. While the pack
 [Git Blame](https://github.com/Sertion/vscode-gitblame)<br/>
 [Prettier](https://github.com/prettier/prettier-vscode)<br/>
 [Vscode-icons](https://github.com/vscode-icons/vscode-icons)<br/>
+[Snyk Vulnerability Scanner](https://github.com/snyk/vscode-extension)<br/>
+[Coverage Gutters](https://github.com/ryanluker/vscode-coverage-gutters)<br/>
 
 ## Recommended font
 

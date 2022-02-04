@@ -26,6 +26,8 @@
         "esbenp.prettier-vscode",
         "robertohuertasm.vscode-icons",
         "sleistner.vscode-fileutils",
-        "waderyan.nodejs-extension-pack"
+        "waderyan.nodejs-extension-pack",
+        "snyk.vscode-extension",
+        "ryanluker.vscode-coverage-gutters"
     ]
 }
