@@ -2,7 +2,7 @@
     "name": "pdtt-pack",
     "displayName": "PDTT Pack",
     "description": "",
-    "version": "0.0.27",
+    "version": "0.1.0",
     "publisher": "pd-saarmae",
     "repository": {
         "url": "https://github.com/saarmae/pdtt_pack"
@@ -26,6 +26,8 @@
         "esbenp.prettier-vscode",
         "robertohuertasm.vscode-icons",
         "sleistner.vscode-fileutils",
-        "waderyan.nodejs-extension-pack"
+        "waderyan.nodejs-extension-pack",
+        "snyk.vscode-extension",
+        "ryanluker.vscode-coverage-gutters"
     ]
 }
