@@ -19,7 +19,6 @@
         "Extension Packs"
     ],
     "extensionDependencies": [
-        "CoenraadS.bracket-pair-colorizer",
         "EditorConfig.EditorConfig",
         "ms-azuretools.vscode-docker",
         "codezombiech.gitignore",
