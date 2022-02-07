@@ -27,7 +27,7 @@
         "robertohuertasm.vscode-icons",
         "sleistner.vscode-fileutils",
         "waderyan.nodejs-extension-pack",
-        "snyk.vscode-extension",
+        "snyk-security.snyk-vulnerability-scanner",
         "ryanluker.vscode-coverage-gutters"
     ]
 }
