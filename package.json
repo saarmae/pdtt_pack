@@ -2,7 +2,7 @@
     "name": "pdtt-pack",
     "displayName": "PDTT Pack",
     "description": "",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "publisher": "pd-saarmae",
     "repository": {
         "url": "https://github.com/saarmae/pdtt_pack"
@@ -19,15 +19,15 @@
         "Extension Packs"
     ],
     "extensionDependencies": [
-        "christian-kohler.npm-intellisense", 
-        "christian-kohler.path-intellisense", 
-        "DavidAnson.vscode-markdownlint", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "EditorConfig.EditorConfig", 
-        "esbenp.prettier-vscode", 
-        "firsttris.vscode-jest-runner", 
-        "foxundermoon.shell-format", 
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "DavidAnson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        "firsttris.vscode-jest-runner",
+        "foxundermoon.shell-format",
         "yoavbls.pretty-ts-errors"
     ]
 }
