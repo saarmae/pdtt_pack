@@ -27,8 +27,7 @@
         "EditorConfig.EditorConfig", 
         "esbenp.prettier-vscode", 
         "firsttris.vscode-jest-runner", 
-        "foxundermoon.shell-format", 
-        "jasonnutter.search-node-modules", 
+        "foxundermoon.shell-format",
         "yoavbls.pretty-ts-errors"
     ]
 }
