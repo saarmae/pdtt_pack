@@ -43,51 +43,76 @@ After this you can remove single extensions you don't care about. While the pack
 
 Some controversial settings have been commented out, feel free to uncomment or delete.
 
-```
+```json
 {
-    "editor.cursorBlinking": "phase",
-    "editor.cursorStyle": "line",
-    "editor.cursorWidth": 2,
-    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
-    "editor.lineNumbers": "on",
-    "editor.minimap.enabled": false,
-    "editor.quickSuggestions": {
-        "comments": true,
-        "other": true,
-        "strings": true
-    },
-    "editor.renderWhitespace": "none",
-    "editor.rulers": [
-        120
-    ],
-    "explorer.confirmDelete": false,
-    "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true,
-    "npm-intellisense.importES6": false,
-    "prettier.eslintIntegration": true,
-    "prettier.printWidth": 120,
-    "prettier.singleQuote": true,
-    "prettier.tabWidth": 4,
-    "prettier.trailingComma": "all",
-    "prettier.useTabs": true,
-    "terminal.external.osxExec": "iterm2.app",
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.fontFamily": "Inconsolata for powerline, Fira Code, Menlo, monospace",
-    "vsicons.dontShowNewVersionMessage": true,
-    "window.zoomLevel": 0,
-    "workbench.colorTheme": "Cobalt2",
-    "workbench.fontAliasing": "default",
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.settings.editor": "json",
-    "workbench.startupEditor": "welcomePage",
-    "workbench.statusBar.feedback.visible": false,
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "workbench.settings.useSplitJSON": true,
-    "editor.guides.bracketPairs": true,
-    "editor.bracketPairColorization.enabled": true
-    // "editor.fontLigatures": true,
-    // "files.autoSave": "afterDelay",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": true,
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "editor.cursorBlinking": "phase",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 2,
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.guides.bracketPairs": true,
+  "editor.lineNumbers": "on",
+  "editor.quickSuggestions": {
+    "comments": "inline",
+    "other": "inline",
+    "strings": "inline"
+  },
+  "editor.renderWhitespace": "none",
+  "editor.rulers": [120, 160],
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "off",
+  "git.openDiffOnClick": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "jestrunner.runOptions": ["--testTimeout=100000000"],
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.fontFamily": "Inconsolata for powerline, Fira Code, Menlo, monospace",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Cobalt2",
+  "workbench.editor.enablePreview": false,
+  "workbench.iconTheme": "icons",
+  "workbench.settings.editor": "json",
+  "workbench.settings.useSplitJSON": true,
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "welcomePage"
 }
 ```
