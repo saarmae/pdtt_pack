@@ -88,11 +88,6 @@ Some controversial settings have been commented out, feel free to uncomment or d
   "editor.fontLigatures": true,
   "editor.guides.bracketPairs": true,
   "editor.lineNumbers": "on",
-  "editor.quickSuggestions": {
-    "comments": "inline",
-    "other": "inline",
-    "strings": "inline"
-  },
   "editor.renderWhitespace": "none",
   "editor.rulers": [120, 160],
   "explorer.confirmDelete": false,
